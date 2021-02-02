@@ -66,7 +66,7 @@
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:100px;overflow:hidden;">
            
             <?php 
-                for ($i=0; $i < 30; $i++) { 
+                //for ($i=0; $i < 30; $i++) { 
             ?>
                     <div>
                         <img data-u="image" src="img/020.jpg" />
@@ -75,11 +75,11 @@
                         <img data-u="image" src="img/cus_2.jpg" />
                     </div>
             <?php 
-                }
+                //}
              ?>
 
             
-            <!-- <div>
+            <div>
                 <img data-u="image" src="img/002.jpg" />
             </div>
             <div>
@@ -108,7 +108,7 @@
             </div>
             <div>
                 <img data-u="image" src="img/024.jpg" />
-            </div> -->
+            </div>
         </div><a data-scale="0" href="https://www.jssor.com" style="display:none;position:absolute;">web design</a>
     </div>
     <script type="text/javascript">jssor_1_slider_init();
